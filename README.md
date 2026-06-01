@@ -144,4 +144,3 @@ simple-scientific-calculator/
 ## Author
    Mahima Mane
 
-Developed using Python and Tkinter as an advanced calculator application for learning and engineering calculations.
