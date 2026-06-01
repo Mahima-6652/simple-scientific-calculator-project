@@ -142,6 +142,6 @@ simple-scientific-calculator/
 * Advanced graph customization
 
 ## Author
-     Mahima Mane
+   Mahima Mane
 
 Developed using Python and Tkinter as an advanced calculator application for learning and engineering calculations.
