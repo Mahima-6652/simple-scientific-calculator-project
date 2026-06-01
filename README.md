@@ -141,6 +141,7 @@ simple-scientific-calculator/
 * PDF export for history
 * Advanced graph customization
 
-## Mahima Mane
+## Author
+     Mahima Mane
 
 Developed using Python and Tkinter as an advanced calculator application for learning and engineering calculations.
